@@ -5,7 +5,7 @@ I am a native speaker so I am uncertain of the quality of these.
 ## Learning
 
 * [Hacking Finnish at Memrise](https://app.memrise.com/course/134598/hacking-finnish/)
-  * See Memrise blog on []
+  * [Wayback machine: Hacking Languages by BenWhately on The Official Memrise Blog](https://web.archive.org/web/20160118103207/http://www.memrise.com/blog/hacking-languages/)
 * [YLE Suomi/Finnish learning](https://yle.fi/aihe/artikkeli/2015/12/15/suomi-finnish)
   * [Finnish sign language](https://yle.fi/aihe/artikkeli/2015/12/15/viittomakieli)
 * [Duolingo](https://duolingo.com/) has a Finnish course, but may be a bit
