@@ -4,3 +4,4 @@ Name,Country,Link,Feed
 ,Estonia,,https://rus.err.ee/rss
 ,Lithuania,,https://www.lrt.lt/ru/novosti?rss
 ,Czech Republic,,https://ruski.radio.cz/rcz-rss/ru
+YLE Novosti,Finland,https://yle.fi/novosti,https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_NOVOSTI
