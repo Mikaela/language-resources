@@ -8,3 +8,4 @@ understanding of it.
 * https://gitea.blesmrt.net/Mikaela/language-resources
 * https://github.com/Mikaela/language-resources
 * https://gitlab.com/Mikaela/language-resources
+* https://git.com.de/Mikaela/language-resources
