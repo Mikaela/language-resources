@@ -1,7 +1,7 @@
-Name,Country,Link,Feed
-,United Kingdom,,https://feeds.bbci.co.uk/russian/rss.xml
-,Bulgaria,,https://bnr.bg/ru/rss/news
-,Estonia,,https://rus.err.ee/rss
-,Lithuania,,https://www.lrt.lt/ru/novosti?rss
-,Czech Republic,,https://ruski.radio.cz/rcz-rss/ru
-YLE Novosti,Finland,https://yle.fi/novosti,https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_NOVOSTI
+Name,Country,Link,Feed,Telegram (official),Telegram (unofficial)
+,United Kingdom,,https://feeds.bbci.co.uk/russian/rss.xml,https://t.me/bbcrussian,
+,Bulgaria,,https://bnr.bg/ru/rss/news,,
+,Estonia,,https://rus.err.ee/rss,,
+,Lithuania,,https://www.lrt.lt/ru/novosti?rss,,
+,Czech Republic,,https://ruski.radio.cz/rcz-rss/ru,,
+YLE Novosti,Finland,https://yle.fi/novosti,https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_NOVOSTI,,https://t.me/Finland_News_RUS
