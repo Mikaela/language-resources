@@ -1,7 +1,8 @@
-Name,Country,Link,Feed,Telegram (☑️),Telegram (unofficial)
-,United Kingdom,,https://feeds.bbci.co.uk/russian/rss.xml,https://t.me/bbcrussian,
-,Bulgaria,,https://bnr.bg/ru/rss/news,,
-,Estonia,,https://rus.err.ee/rss,,
-,Lithuania,,https://www.lrt.lt/ru/novosti?rss,,
-,Czech Republic,,https://ruski.radio.cz/rcz-rss/ru,,
-YLE Novosti,Finland,https://yle.fi/novosti,https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_NOVOSTI,,https://t.me/Finland_News_RUS
+Name,Country,Link,Tor Onion  Service,Feed,Telegram (☑️),Telegram (unofficial),Shortwave Radio
+BBC,United Kingdom,,https://www.bbcweb3hytmzhn5d532owbu6oqadra5z3ar726vq5kgwwn6aucdccrad.onion/russian,https://feeds.bbci.co.uk/russian/rss.xml,https://t.me/bbcrussian,,15735 kHz 1400–1600 GMT (Kyiv is GMT+2) and 5875 kHz 2000-2200 GMT (Kyiv is GMT+2).
+BNG,Bulgaria,,,https://bnr.bg/ru/rss/news,,,
+ERR,Estonia,,,https://rus.err.ee/rss,,,
+LRT,Lithuania,,,https://www.lrt.lt/ru/novosti?rss,,,
+Radio Prague International,Czech Republic,,,https://ruski.radio.cz/rcz-rss/ru,,,
+Tor Project,,https://www.torproject.org/ru,http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/,,,,
+YLE Novosti,Finland,https://yle.fi/novosti,,https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_NOVOSTI,,https://t.me/Finland_News_RUS,
