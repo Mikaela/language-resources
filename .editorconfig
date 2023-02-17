@@ -1,0 +1,20 @@
+root = true
+
+[*]
+trim_trailing_whitespace = true
+insert_final_newline = true
+charset = utf-8
+indent_style = tab
+indent_size = tab
+
+[*.{markdown,md}]
+trim_trailing_whitespace = false
+
+[*.{tsv,tab}]
+indent_style = tab
+indent_size = tab
+trim_trailing_whitespace = false
+
+[*.{cff,yaml,yml}]
+indent_style = space
+indent_size = 2
