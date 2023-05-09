@@ -8,6 +8,17 @@ SPDX-License-Identifier: CC0-1.0
 
 I am a native speaker so I am uncertain of the quality of these.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Learning](#learning)
+  - [Advanceish](#advanceish)
+  - [Misc](#misc)
+- [Finnish courses](#finnish-courses)
+- [Simple Finnish news](#simple-finnish-news)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Learning
 
 - [Hacking Finnish at Memrise](https://app.memrise.com/course/134598/hacking-finnish/)
