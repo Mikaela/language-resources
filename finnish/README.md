@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2023 Aminda Suomalainen
+
+SPDX-License-Identifier: CC0-1.0
+-->
+
 # Finnish resources
 
 I am a native speaker so I am uncertain of the quality of these.

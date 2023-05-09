@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2023 Aminda Suomalainen
+
+SPDX-License-Identifier: CC0-1.0
+-->
+
 # language-resources
 
 Resources that may be helpful for learning a language or deepening
