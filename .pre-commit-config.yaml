@@ -30,7 +30,7 @@ repos:
         args: [--update-only]
 
   - repo: https://github.com/fsfe/reuse-tool
-    rev: v1.1.2
+    rev: v2.0.0
     hooks:
       - id: reuse
 
@@ -40,7 +40,7 @@ repos:
       - id: prettier
 
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
-    rev: "2.7.1"
+    rev: "2.7.2"
     hooks:
       - id: editorconfig-checker
         alias: ec
