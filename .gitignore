@@ -2,4 +2,19 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-.~lock*#
+# prettier v4.0.0-alpha.3-1 brought this in
+node_modules
+
+# All dotfiles
+.*
+
+# Except not these. Uncomment if the popular ones make an appearance here.
+!.editorconfig
+!.gitattributes
+#!.github
+!.gitignore
+#!.gitlab-ci.yml
+#!.gitmodules
+#!.mailmap
+!.pre-commit-config.yaml
+#!.reuse
