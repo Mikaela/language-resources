@@ -35,7 +35,7 @@ repos:
         args: [--update-only, --notitle]
 
   - repo: https://github.com/fsfe/reuse-tool
-    rev: v2.1.0
+    rev: v3.0.1
     hooks:
       - id: reuse
 
@@ -45,7 +45,7 @@ repos:
       - id: prettier
         additional_dependencies: [
             # https://aminda.eu/n/prettier
-            "prettier@3.1.1",
+            "prettier@3.2.4",
           ]
 
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
