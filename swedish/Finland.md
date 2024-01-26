@@ -8,6 +8,22 @@ SPDX-License-Identifier: CC0-1.0
 
 This is an growing collection of articles that have caught my attention.
 
+<!-- editorconfig-checker-disable -->
+<!-- prettier-ignore-start -->
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [2023](#2023)
+- [2024](#2024)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+<!-- prettier-ignore-end -->
+<!-- editorconfig-checker-enable -->
+
+## 2023
+
 - 2023-05-31: Lauttasaari.fi:
   [Pääkirjoitus: Rätt till flerspråkighet](https://www.lauttasaari.fi/paakirjoitus-ratt-till-flersprakighet/)
   - See also: [Lauttasaari.fi: Drumsö på svenska](https://www.lauttasaari.fi/drumso-pa-svenska/)
@@ -18,6 +34,9 @@ This is an growing collection of articles that have caught my attention.
     very well.
   - On the same days YLE News had an article [Thursday's papers: Presidential reception, Swedish service, and dairy strike](https://yle.fi/a/74-20063809)
     which refers to the HS.fi article.
+
+## 2024
+
 - 2024-01-09 HBL.fi had an paywalled article
   [Folktinget om Mika Salminens uttalande i HBL: Kan inte acceptera det](https://www.hbl.fi/artikel/0c1e1a42-b5ac-5108-be1e-1c361f23f0db)
   which was again mentioned by YLE [Tuesday's papers: Soaring electricity prices, Swedish service and free sourdough](https://yle.fi/a/74-20068456).
