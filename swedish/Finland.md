@@ -21,3 +21,5 @@ This is an growing collection of articles that have caught my attention.
 - 2024-01-09 HBL.fi had an paywalled article
   [Folktinget om Mika Salminens uttalande i HBL: Kan inte acceptera det](https://www.hbl.fi/artikel/0c1e1a42-b5ac-5108-be1e-1c361f23f0db)
   which was again mentioned by YLE [Tuesday's papers: Soaring electricity prices, Swedish service and free sourdough](https://yle.fi/a/74-20068456).
+- 2024-01-22: YLE X3M Nyheter reviewed the Swedish skills of the presidential
+  candidates and [YLE Uutiset wrote an article about it.](https://yle.fi/a/74-20069448)
