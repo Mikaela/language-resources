@@ -57,3 +57,5 @@ I am a native speaker so I am uncertain of the quality of these.
 
 - [YLE Uutiset selkosuomeksi](https://yle.fi/uutiset/osasto/selkouutiset/),
   TV/Radio news in plain/simple Finnish spoken slowly
+- [Selkomedia.fi](https://www.selkomedia.fi) is a news website dedicated to
+  plain Finnish which is also in the name.
