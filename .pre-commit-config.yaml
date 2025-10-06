@@ -13,7 +13,7 @@ default_language_version:
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
+    rev: v6.0.0
     hooks:
       - id: check-added-large-files
       - id: check-case-conflict
@@ -35,7 +35,7 @@ repos:
         args: [--update-only, --notitle]
 
   - repo: https://github.com/fsfe/reuse-tool
-    rev: v3.0.2
+    rev: v6.0.0
     hooks:
       - id: reuse
 
@@ -49,7 +49,7 @@ repos:
           ]
 
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
-    rev: "2.7.3"
+    rev: "3.4.0"
     hooks:
       - id: editorconfig-checker
         alias: ec
